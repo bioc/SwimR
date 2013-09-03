@@ -1,0 +1,1 @@
+export(createFrequencyMatrix, SwimR)
