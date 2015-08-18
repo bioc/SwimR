@@ -587,7 +587,7 @@ if(tg == length(filenames)){
 		
 	result <- list(frequencyMatrix=frequencyMatrix,annotation=frequencyName)
 	
-	browseURL(file.path(outputPath,"outputDescription_createFrequencyMatrix.html"))
+	if (interactive()) browseURL(file.path(outputPath,"outputDescription_createFrequencyMatrix.html"))
 	
 	return(result)
 }else{

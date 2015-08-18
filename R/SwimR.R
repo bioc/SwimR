@@ -637,7 +637,7 @@ HTML(de, file=target)
 	
 HTMLEndFile()
 	
-browseURL(file.path(outputPath,"outputDescription_SwimR.html"))
+if (interactive()) browseURL(file.path(outputPath,"outputDescription_SwimR.html"))
 	
 return(resultAll)
 }
