@@ -2,7 +2,7 @@ Package: SwimR
 Type: Package
 Title: SwimR: A Suite of Analytical Tools for Quantification of C.
         elegans Swimming Behavior
-Version: 1.32.0
+Version: 1.33.0
 Date: 2013-08-20
 Author: Jing Wang <jing.wang.2@vanderbilt.edu>, Andrew Hardaway
         <hardawayja@gmail.com> and Bing Zhang
